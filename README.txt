@@ -1,0 +1,1 @@
+This repository contains homeworks done for course CS315 in Bilkent Unıversity, where I worked with 7 different programming languages which are Dart, GoLang, JavaScript, Kotlin, Python, Ruby and Rust and determined which one was the best for certain operations by assessing their readability and writability.
